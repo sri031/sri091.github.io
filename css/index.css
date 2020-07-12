@@ -1,0 +1,167 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: ivory;
+}
+/* Center website */
+.main {
+  max-width: 100%;
+  margin: auto;
+  position: relative;
+  margin-bottom: 100px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 60px;
+  color: orange;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  color: orange;
+  padding: 20px;
+}
+
+h2 {
+  font-weight: bolder;
+  color: orange;
+}
+
+.title {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  font-weight: bolder;
+  font-size: 70px;
+  color: orange;
+}
+
+.sub_title {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  font-weight: bolder;
+  font-size: 20px;
+  color: orange;
+}
+
+.about_me {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  padding: 10px 20px;
+  background-color: rgb(255, 208, 0);
+  border-color: rgb(255, 208, 0);
+  color: #ffffff;
+  font-weight: bolder;
+  outline: none;
+  color: orange;
+}
+
+.specilization {
+  text-align: center;
+  position: relative;
+}
+
+.specilization_title {
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 200px;
+  color: orange;
+}
+
+
+
+.android_name {
+  position: absolute;
+  left: 38%;
+  top: 50%;
+}
+
+.android_prof {
+  position: absolute;
+  left: 38%;
+  top: 75%;
+}
+
+.adobe_name {
+  position: absolute;
+  left: 68%;
+  top: 50%;
+}
+
+.adobe_prof {
+  position: absolute;
+  left: 68%;
+  top: 75%;
+}
+
+.desc {
+  text-align: left;
+  color: black;
+  color: orange;
+}
+
+
+
+.project_title {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    color: orange;
+    margin-bottom: 30px;
+  }
+
+  .project_img {
+    text-align: center;
+  }
+  
+  .prev {
+    margin-bottom: 200px;
+  }
+  
+  .next {
+    margin-bottom: 200px;
+  }
+  
+  .actual_img {
+    border-radius: 15px;
+  }
+  
+
+  .project_desc {
+    margin-left: 180px;
+  }
+  
+  .project_content {
+    text-align: left;
+    color: orange;
+  }
+  
+  .project_name {
+    text-align: left;
+    color: orange;
+    margin-left: 20px;
+  }
+
+  .resume {
+  text-align: center;
+  padding-bottom: 200px;
+  padding-top: 50px;
+}
+
+.img_container {
+  float: left;
+  width: 33%;
+  padding-top: 50px;
+}
+
+.img_resume {
+  border-radius: 15px;
+}
+.contact_me {
+  margin-top: 100px;
+  text-align: center;
+  justify-content: left;
+}
